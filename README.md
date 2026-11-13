@@ -43,7 +43,7 @@ STEP files for every part, plus a full assembly (`_assembly.step`) and an explod
 1. Slide the Pi Zero W (lower) and the Voice Bonnet (upper) into the slots in the holder's
    side walls from the connector side. Board ends (microphones, SD card) stick out of the walls, just like the cardboard frame.
 2. Drop the speaker into the holder's double back wall: the outer notch holds the speaker neck, the magnet sits between the two walls.
-3. Slide the holder into the body. The cardboard frame from the kit also fits if you prefer.
+3. Slide the holder into the body.
 4. Mount the arcade button in the lid, connect it, and press the lid on (snap fit).
 
 ## Photos
