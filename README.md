@@ -6,6 +6,8 @@ A 3D-printable replacement for the cardboard box of the **Google AIY Voice Kit v
 (Raspberry Pi Zero W + Voice Bonnet + speaker + arcade button). Modeled in Python with
 [build123d](https://github.com/gumyr/build123d), so every dimension can be changed in code.
 
+**Download:** [MakerWorld](https://makerworld.com/en/models/3601164) · [Printables](https://www.printables.com/model/1912280) · [GitHub Release](https://github.com/YongRui0402/aiy-voice-kit-v2-case/releases/latest)
+
 <p>
   <img src="docs/photos/01_assembled_front-angle.jpg" alt="Assembled case" width="32%">
   <img src="docs/photos/04_port-side.jpg" alt="Port side" width="32%">
