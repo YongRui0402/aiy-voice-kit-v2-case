@@ -1,0 +1,10 @@
+[project]
+name = "aiy-voice-kit-v2-case"
+version = "1.0.0"
+description = "3D-printable case for the Google AIY Voice Kit v2 (Raspberry Pi Zero W + Voice Bonnet), modeled in build123d"
+requires-python = ">=3.11,<3.15"
+license = "MIT"
+dependencies = ["build123d==0.13.0"]
+
+[tool.uv]
+package = false
